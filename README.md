@@ -115,7 +115,7 @@ interests them, they'll look more closely.
 Because of this, you should make it easy to get those takeaways even for viewers
 who are just passing by. Here's an example:
 
-[Poster with large text takeaway at the top](static/poster_example.jpg)
+![Poster with large text takeaway at the top](static/poster_example.jpg)
 
 **Don't** just put dense blocks of text. For projects where data visualization
 is appropriate, make sure that the visualizations have enough detail and large
